@@ -1,0 +1,20 @@
+---
+compiled_package_info:
+  package_name: move-1
+  address_alias_instantiation:
+    std: "00000000000000000000000000000001"
+  source_digest: 5EB2E8EB0ECD0AA4007C4AA3E85FF85EC116C4A47CCEF0AB6DC79C5015656ED0
+  build_flags:
+    dev_mode: true
+    test_mode: true
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+dependencies:
+  - MoveNursery
+  - MoveStdlib
